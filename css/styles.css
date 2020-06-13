@@ -1,3 +1,6 @@
+#header-nav{
+  background-color: #C1CFCC;
+}
 .navbar-brand{
   margin-left: 25px;  
 }
@@ -25,11 +28,12 @@
 #nav-list a span {
   font-size: 1.8em;
 }
-
 #tall-section{
   height: 1000px;
   background-color: #FFF1CD;
   width: 100%;
+  margin-left: 5px;
+  margin-right: 10px;
 }
 #main-content{
   margin-bottom: 25px;
