@@ -1,0 +1,36 @@
+.navbar-brand{
+  margin-left: 25px;  
+}
+.navbar-brand h1{
+  color: #24CDA7  ;
+  font-size: 1.5em;  
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;  
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;  
+}
+#nav-list {
+  margin-top: 10px; 
+}
+#nav-list li a:hover, .navbar-brand a:focus {
+ background-color: #FFF1CD;
+}
+#nav-list a {
+  color: #000000;  
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#tall-section{
+  height: 1000px;
+  background-color: #FFF1CD;
+  width: 100%;
+}
+#main-content{
+  margin-bottom: 25px;
+}
